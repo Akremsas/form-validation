@@ -1,0 +1,31 @@
+.my-div{
+    background-color:red;
+    font-size:48px;
+  }
+  .btn{
+    background-color:green;
+    padding: 10px 60px;
+    color: #fff;
+    border: none;
+    border-radius:5px;
+  }
+  #userName{
+    display:block;
+    
+  }
+  /* #error{
+  visibility : visible;
+  } */
+  strong{
+        color:red;
+        visibility : hidden;
+  }
+  .error-message{
+    visibility : visible;
+    color :red;
+  /*   border: 1px solid red; */
+  }
+  .good{
+   color: green;
+   visibility : visible;
+  }
